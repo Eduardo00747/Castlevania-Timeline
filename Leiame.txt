@@ -1,0 +1,21 @@
+LINK DE REFERENCIA 
+
+https://tympanus.net/codrops/2018/08/28/diagonal-slideshow/
+
+ALTERAÇÕES FEITAS 
+
+	-ALTARADA AS IMAGENS
+	-ADICIONADA OS DETALHES DE CADA JOGO LANÇADA EM ORDEM DE GAMEPLAYE
+	-ALTERADO FAVICON JUNTO COM O NOME DO SITE
+	-ALTERADO O ANO DE CADA JOGO CRONOLOGICAMENTE
+
+COMO FUNCIONA 
+
+	Clique na umagem para que a mesma se aplie e mostre a ordem em que os games devem ser jogado
+
+ALTERÇÕES DESEJADAS 
+
+	Gostaria de colocar um link para que ao clicar o mesmo sejá direcionada para a pagina de Galeria de Imagens do game, mas até o momento ainda não descobrir como faze-lo 
+
+
+OBS: ADICONE A PASTA ZIPADA DENTRO DO SERVIDOR WAMP SERVER PARA QUE A PAGINA FUNCIONE CORRETAMENTE !
